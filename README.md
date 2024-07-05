@@ -9,3 +9,4 @@ The concept phase establishes the website's structure through sitemaps and wiref
 Visual design then incorporates brand identity elements, responsive design principles, and seamless integration of e-commerce functionalities.
 Content creation focuses on compelling product presentations and SEO optimization.
 Post-launch, continuous testing, user feedback analysis, and iterative improvements are essential for maintaining and enhancing website performance, supported by ongoing updates, security measures, and customer support to ensure a seamless and effective e-commerce experience.
+![image](https://github.com/Dilipteja90/CODTECH-task2/assets/174248044/dbc1b202-3f0e-4600-9e96-a4dc2fba39ee)
